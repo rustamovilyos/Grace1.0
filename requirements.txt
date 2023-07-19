@@ -59,3 +59,7 @@ urllib3==2.0.3
 vosk==0.3.45
 wcwidth==0.2.6
 websockets==11.0.3
+
+inflect==7.0.0
+googletrans==4.0.0rc1
+PyAutoGUI==0.9.54
